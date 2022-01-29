@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaitanyaGautam-96
-- 👀 I’m interested in everything there is to know about building coolest web applications
-- 🌱 I’m currently learning angular framework and RPA.
-- 💞️ I’m looking to collaborate on angular projects
+- 👀 I’m interested in building stuff and try not to break anything in the process.
+- 🌱 I’m currently learning microservices framewroks, IoT, Finance & Accounting and more.........
+- 💞️ I’m looking to collaborate on web application on IoT and microservices
 - 📫 How to reach me gautamchaitanya@yahoo.com
 
 <!---
